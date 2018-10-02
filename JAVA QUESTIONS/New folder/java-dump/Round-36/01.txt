@@ -1,0 +1,71 @@
+LNCT WIPRO TalentNext2017 – Pre Java Training
+
+Java Training Assessment Test 1) The Java Program is enclosed in a class definition. a) True b) False 2) What are the two parts in executing a Java program and their purposes? a) Java Compiler and Java Interpreter. b) Java Compiler c) Java Interpreter d) Neither a. 3) What are the three OOPs principles and define them? a) Encapsulation b) Inheritance c) Polymorphism d) of Above. e) All Polymorphism 4) What output is displayed as the result of executing the following statement? System.out.println ("// Looks like a comment."); a) // Looks like a comment b) The statement results in a compilation error Looks like a comment c) No output is displayed d) Neither any of above 5) In order for a source code file, containing the public class Test, to successfully compile, which of the following must be true? a) It must have a package statement b) It must be named Test.java c) It must import java.lang d) It must declare a public class named Test
+
+Assessment Test
+
+Page 1
+
+LNCT WIPRO TalentNext2017 – Pre Java Training
+
+6) Java has three kinds of variables namely: a) the instance variable, the local variable and the class variable. b) the instance variable, the local variable c) the local variable and the class variable. d) None of these
+
+7) Variables can be declared: a) Anywhere in the method definition and can be initialized during their declaration. b) Outside in the method definition. c) Only declaration and not can be initialized. d) All of Above. 8) Different types of literals are a) number literals, character literals, boolean literals, string literals. b) number literals, boolean literals. c) All of above. d) None of these. 9) When a string literal is used in the program, Java automatically creates instances of the string class. a)True b) False 10) Which operator is to create and concatenate string? a) &. b) %. c) ++ d) + 11)Which of the following declare an array of string objects? a) Strings []s; b) String[]s: c) String[s]: d) String s[ ]:
+
+Assessment Test
+
+Page 2
+
+LNCT WIPRO TalentNext2017 – Pre Java Training
+
+12) What is16the range of the char type? a) 0 to 215 b) 0 to 216 c) 0 to 215-1 d) 0 to 2 -1 13)If a variable is declared as final variable, a) you can change its value. It becomes constant. b) you can change its value. It not becomes constant. c) you cannot change its value. It becomes constant d) None of These
+
+14)What are the Logical operators? a) OR(|). b) AND(&), XOR(^). c) OR(|), XOR(^) d) OR(|), AND(&), XOR(^) AND NOT(~) 15) What are the values of x and y? x = 5; y = ++x; a) x = 5; y = 6. b) x = 6; y = 5. c) x = 6; y = 6. d) None of these. 16)What is output of the above program? class conditional { public static void main(String args[]) { int i = 20; int j = 55; int z = 0; z = i < j ? i : j; // ternary operator System.out.println("The value assigned is " + z); }
+
+Assessment Test
+
+Page 3
+
+LNCT WIPRO TalentNext2017 – Pre Java Training
+
+} a) Undefined Error. b) The value assigned is 0. c) The value assigned is 20. d) Runtime error. 17)What is mean by garbage collection? a) No garbage collection is used in java. b) Destructor is used in java c) An object of any variable, Java automatically reclaims memory used by that object. d) All of above.
+
+18)To import a class, the import keyword should be used as shown. a) import java. classname; b) import classname; c) import filename; d) import lang; 19) Which of the following statements accurately describe the use of access modifiers within a class definition? a) They can be applied to both data & methods b) They must precede a class's data variables or methods c) They can follow a class's data variables or methods d) They can appear in any order. e) They must be applied to data variables first and then to methods 20) Which of the following statements can be used to describe a public method? a) It is accessible to all other classes in the hierarchy. b) It is accessible only to subclasses of its parent class. c) It represents the public interface of its class.
+
+Assessment Test
+
+Page 4
+
+LNCT WIPRO TalentNext2017 – Pre Java Training
+
+d) The only way to gain access to this method is by calling one of the public class methods. 21) Which are keywords in Java? a) NULL b) sizeof c) friend d) extends 22)What is an example of polymorphism? a) Inner class b) Anonymous classes c) Method overloading d) Method overriding 23) Java compiler stores the .class files in the path specified in CLASSPATH environmental variable. a) True b) False
+
+Assessment Test
+
+Page 5
+
+LNCT WIPRO TalentNext2017 – Pre Java Training 24) When a program does not want to handle exception, the ______class is used. a) Try b) Catch c) Throw d) Throws 25) A _______ is used to separate the hierarchy of the class while declaring an Import statement. a) package b) import package c) java.lang.package d) sub package 26) Which keyword is used to inherit a class? a) extend b) extends c) implement d) implements 27) Which of the following statements correctly describes an interface? a) It's a concrete class b) It's a superclass c) It's a type of abstract class d) All of Above 28)An interface contains __ methods a) Non-abstract b) Implemented c) Unimplemented d) None of these. 29) Which method can be used to obtain the length of the String? a) length( ) method. b) Str.length( ) method. c) All of Above. d) None of these. 30) Which method can be used to perform a comparison between strings that ignores case differences? a) equalIgnoreCase( ) method. Assessment Test
+
+Page 6
+
+LNCT WIPRO TalentNext2017 – Pre Java Training b) equalsIgnorecase( ) method. c) equalsIgnoreCases( ) method. d) equalsIgnoreCase( ) method.
+
+31) What is the output of the following program? public class Question { public static void main(String args[]) { String s1 = "abc"; String s2 = "def"; String s3 = s1.concat(s2.toUpperCase( ) ); System.out.println(s1+s2+s3); } } a) abcdefabcdef b) abcabcDEFDEF c) abcdefabcDEF d) None of the above 32) Which of the following methods are methods of the String class? a) delete( ) b) append( ) c) reverse( ) d) replace( ) 33) Which of the following methods cause the String object referenced by s to be changed? a) s.concat( ) b) s.toUpperCase( ) c) s.replace( ) d) s.valueOf( ) e) All of above.
+
+34) If you run the code below, what gets printed out? String s=new String("Bicycle"); Assessment Test
+
+Page 7
+
+LNCT WIPRO TalentNext2017 – Pre Java Training int iBegin=1; char iEnd=3; System.out.println(s.substring(iBegin,iEnd)); a) Bic b) ic c) icy d) error: no method matching substring(int,char) 35) Which of the following are legal operations? a) s3=s1 + s2; b) s3=s1 - s2; c) s3=s1 & s2 d) s3=s1 && s2 36) Which of the following statements are true? a) The String class is implemented as a char array, elements are addressed using the stringname[] convention. b) Strings are a primitive type in Java that overloads the + operator for concatenation. c) Strings are a primitive type in Java and the StringBuffer is used as the matching wrapper type. d) The size of a string can be retrieved using the length property. 37) Given the following code what is the effect of a being 5: public class Test { public void add(int a) { loop: for (int i = 1; i < 3; i++){ for (int j = 1; j < 3; j++) { if (a == 5) { break loop; } System.out.println(i * j); } } } } Assessment Test
+
+Page 8
+
+LNCT WIPRO TalentNext2017 – Pre Java Training a) Generate a runtime error b) Throw an ArrayIndexOutOfBoundsException c) Print the values: 1, 2, 2, 4 d) Produces no output 38) What will be the result of compiling the following code: public class Test { public static void main (String args []) { int age; age = age + 1; System.out.println("The age is " + age); } } a) Compiles and runs with no output b) Compiles and runs printing out The age is 1 c) Compiles but generates a runtime error d) Does not compile e) Compiles but generates a compile time error 39) Carefully examine the following code, When will the string "Hi there" be printed? public class StaticTest { static { System.out.println("Hi there"); } public void print() { System.out.println(" Hello"); } public static void main(String args []) { StaticTest st1 = new StaticTest(); st1.print(); StaticTest st2 = new StaticTest(); st2.print(); } } a. Never. Assessment Test
+
+Page 9
+
+LNCT WIPRO TalentNext2017 – Pre Java Training b. Each time a new instance is created. c. Once when the class is first loaded into the Java virtual machine. d. Only when the static method is called explicitly. 40) What is the result of the following program: public class Test { public static void main (String args []) { boolean a = false; if (a = true) System.out.println("Hello"); else System.out.println("Goodbye"); } } a. Program produces no output but terminates correctly. b. Program does not terminate. c. Prints out "Hello".
+
+Assessment Test
+
+Page 10
